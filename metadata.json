@@ -1,0 +1,6 @@
+{
+  "name": "Hopp",
+  "description": "All-in-one music hub unifying Spotify, Apple Music, YouTube Music, JioSaavn, AI mood curation, and song recognition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
